@@ -27,3 +27,11 @@ book_recommendation/
 ├── similarity.pkl (optional: pickled similarity matrix)
 |__ dataset
 └── README.md
+# 📚 Book Recommendation Website
+
+A Flask-based book recommender showing top books and suggestions.
+
+## 🔻 Screenshot
+
+![Homepage Screenshot](screenshot.png)
+
